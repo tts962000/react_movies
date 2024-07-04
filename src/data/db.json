@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Godzilla",
+      "description": "THis is Godzilla",
+      "categories": [
+        "Action",
+        "SciFi"
+      ]
+    },
+    {
+      "title": "Spider Man",
+      "description": "This is Spider Man",
+      "categories": [
+        "Marvel",
+        "Sci-Fi",
+        "Action"
+      ],
+      "id": 2
+    },
+    {
+      "title": "AOT",
+      "description": "This is AOT",
+      "categories": [
+        "anime",
+        "Anime"
+      ],
+      "id": 3
+    }
+  ]
+}
